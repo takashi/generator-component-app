@@ -54,6 +54,7 @@ var ComponentAppGenerator = yeoman.generators.Base.extend({
     this.mkdir('src');
     this.copy('_package.json', 'package.json');
     this.copy('_component.json', 'component.json');
+    this.copy('Makefile', 'Makefile');
     this.copy('_index.html', 'index.html');
   },
 
