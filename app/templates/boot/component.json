@@ -1,0 +1,6 @@
+{
+  "name": "boot",
+  "description": "Main app boot component",
+  "scripts": ["index.js"],
+  "styles": ["style.css"]
+}

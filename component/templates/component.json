@@ -1,0 +1,10 @@
+{
+  "name": "<%= _.slugify(name) %>",
+  "description": "WRITE DESCRIPTION OF THIS COMPONENT HERE",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": [
+    "index.js"<% if(withTemplate) { %>,
+    "template.html"<% } %>
+  ]
+}

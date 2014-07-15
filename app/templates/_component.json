@@ -1,0 +1,6 @@
+{
+  "name": "<%= _.slugify(appName) %>",
+  "description": "<%= description %>",
+  "paths": ["src"],
+  "locals": ["boot"]
+}
