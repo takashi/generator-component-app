@@ -1,4 +1,4 @@
-# generator-component-app [![Build Status](https://secure.travis-ci.org/takashi/generator-component-app.png?branch=master)](https://travis-ci.org/takashi/generator-component-app)
+# generator-component-app [![Build Status](https://travis-ci.org/takashi/generator-component-app.svg)](https://travis-ci.org/takashi/generator-component-app)
 
 > [Yeoman](http://yeoman.io) generator
 
