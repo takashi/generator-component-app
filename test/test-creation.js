@@ -25,6 +25,7 @@ describe('component-app generator', function () {
       '.jshintrc',
       '.editorconfig',
       'package.json',
+      '.gitignore',
       'Makefile',
       'component.json',
       'index.html',
