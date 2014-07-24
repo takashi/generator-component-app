@@ -1,7 +1,7 @@
 {
   "name": "generator-component-app",
-  "version": "0.0.4",
   "description": "Yeoman generator",
+  "version": "0.0.5",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "takashi/generator-component-app",
