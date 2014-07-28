@@ -4,7 +4,7 @@
 
 ## Notice
 
-sub-generator command `component-app:component` is not enabled under ver0.0.5.
+sub-generator command `component-app:component` is not enabled under 0.0.5.
 please use 0.0.6 or upper :/
 
 ## Getting Started
