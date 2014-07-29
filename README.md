@@ -27,6 +27,23 @@ And you can create component with sub command
 $ yo component-app:component YOUR_COMPONENT_NAME
 ```
 
+## How to build your app
+
+```bash
+$ cd YOUR_APP_DIR
+$ make
+```
+
+I recommend to use [visionmedia/watch](https://github.com/visionmedia/watch) to build component continuously.
+
+```bash
+$ git clone git@github.com:visionmedia/watch.git
+$ cd ./watch
+$ make
+$ cd YOUR_APP_DIR
+$ watch make
+```
+
 ## License
 
 MIT
